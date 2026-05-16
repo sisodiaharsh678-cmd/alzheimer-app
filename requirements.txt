@@ -1,0 +1,10 @@
+cd /Users/harshsisodiya678/TOPS/ML
+cat > requirements.txt << EOF
+streamlit
+plotly
+scikit-learn
+xgboost
+pandas
+numpy
+openpyxl
+EOF
